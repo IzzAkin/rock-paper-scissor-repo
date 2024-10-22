@@ -1,2 +1,2 @@
-Just a basic Rock-paper-Scissor code for practice.
+Just a basic Rock-paper-Scissor code for practice(in python)
 
