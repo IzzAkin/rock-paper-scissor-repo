@@ -1,2 +1,1 @@
-Just a basic Rock-paper-Scissor code for practice(in python)
-
+An interactive website that provides information on tech events around the country.
